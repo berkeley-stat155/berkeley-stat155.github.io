@@ -27,6 +27,12 @@ UC Berkeley
 
 General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples. 
 
+## Logistics
+
+Three hours of Lecture per week for 15 weeks.  Six hours of Lecture per week for 8 weeks.
+
+Written final exam conducted during the scheduled final exam period.
+
 ## Prerequisites
 
 101 or 134. 
