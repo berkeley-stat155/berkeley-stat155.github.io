@@ -13,7 +13,7 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: Stat 155: Game Theory
+title: "Stat 155: Game Theory"
 tagline: Course Overview
 description: General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples. 
 author: SCF
