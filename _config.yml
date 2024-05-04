@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 155: Game Theory"
 tagline: Course Overview
-description: General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples. 
+description: "General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples. "
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat155.berkeley.edu'
