@@ -16,13 +16,13 @@
 title: "Stat 155: Game Theory"
 tagline: Course Overview
 description: "General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples. "
-author: SCF
+author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat155.berkeley.edu'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: 'resources/stat_bear.png'
+logo: 'resources/logo.png'
 
-ga_tracking: G-X0S2D7Y4NT
+ga_tracking: "G-"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0

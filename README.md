@@ -15,7 +15,7 @@ UC Berkeley
 
 
 
-[//]: # ## Offerings
+## Offerings
 
 [//]: # 1. [Fall 2024](fall-2024)
 
@@ -28,8 +28,8 @@ General theory of zero-sum, two-person games, including games in extensive form 
 
 ## Logistics
 
-Three hours of Lecture per week for 15 weeks.  Six hours of Lecture per week for 8 weeks.
+Three hours of Lecture per week for 15 weeks.
 
 ## Prerequisites
 
-101 or 134. 
+Two years of calculus. 
